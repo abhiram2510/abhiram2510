@@ -11,6 +11,9 @@
 📫 How to reach me: abhirampatruni03@gmail.com
 ⚡ The more you fear something, the more it will happen
 
+### :fire: My Stats :
+
+
 Connect with me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/abhiram-patruni-a642161b4/">
