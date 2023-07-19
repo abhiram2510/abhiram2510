@@ -1,15 +1,15 @@
 ###                                                            Hi there 👋 I am Abhiram Patruni
 ##                                                       Undergrad at Manipal Institute of Technology
 
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=abhiram2510&style=flat-square&color=blue" alt=""/>
-🔭 I’m currently working on Web dev and APIs
-🌱 I'm currently learning RestAPIs and Javascript
-📫 How to reach me: abhirampatruni03@gmail.com
-⚡ The more you fear something, the more it will happen
+🔭 I’m currently working on Web dev and APIs <br>
+🌱 I'm currently learning RestAPIs and Javascript<br>
+📫 How to reach me: abhirampatruni03@gmail.com<br>
+⚡ The more you fear something, the more it will happen<br>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhiram2510&theme=dark&background=000000)](https://git.io/streak-stats)
