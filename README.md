@@ -5,6 +5,7 @@
   <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=abhiram2510&style=flat-square&color=blue" alt=""/>
 🔭 I’m currently working on Web dev and APIs
 🌱 I'm currently learning RestAPIs and Javascript
 📫 How to reach me: abhirampatruni03@gmail.com
@@ -17,7 +18,7 @@ Connect with me:
   </a>
 </div>
 <br>
-<img src="https://komarev.com/ghpvc/?username=abhiram2510&style=flat-square&color=blue" alt=""/>
+
 
 
 
