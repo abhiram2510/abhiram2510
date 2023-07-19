@@ -1,10 +1,10 @@
 ### Hi there 👋 I am Abhiram Patruni
 ## Undergrad at Manipal Institute of Technology
 
-# 🔭 I’m currently working on Web dev and APIs
-# 🌱 I'm currently learning RestAPIs and Javascript
-# 📫 How to reach me: abhirampatruni03@gmail.com
-# ⚡ The more you fear something, the more it will happen
+🔭 I’m currently working on Web dev and APIs
+🌱 I'm currently learning RestAPIs and Javascript
+📫 How to reach me: abhirampatruni03@gmail.com
+⚡ The more you fear something, the more it will happen
 
 
 
