@@ -1,5 +1,5 @@
 <div align="center"><h1>Hi there 👋 I am Abhiram Patruni </h1> <div>
-##                                                       Undergrad at Manipal Institute of Technology
+<div align="center"><h3>Undergrad at Manipal Institute of Technology</h3></div>
 
 <div id="header">
   <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
