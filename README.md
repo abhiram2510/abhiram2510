@@ -10,6 +10,7 @@
 📫 How to reach me: abhirampatruni03@gmail.com
 ⚡ The more you fear something, the more it will happen
 
+Connect with me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/abhiram-patruni-a642161b4/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
