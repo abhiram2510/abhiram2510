@@ -1,4 +1,4 @@
-<div align="center"> ### Hi there 👋 I am Abhiram Patruni <div>
+<div align="center"><h1>Hi there 👋 I am Abhiram Patruni </h1> <div>
 ##                                                       Undergrad at Manipal Institute of Technology
 
 <div id="header">
