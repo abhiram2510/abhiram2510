@@ -1,6 +1,10 @@
 ### Hi there 👋 I am Abhiram Patruni
 ## Undergrad at Manipal Institute of Technology
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
+</div>
+
 🔭 I’m currently working on Web dev and APIs
 🌱 I'm currently learning RestAPIs and Javascript
 📫 How to reach me: abhirampatruni03@gmail.com
