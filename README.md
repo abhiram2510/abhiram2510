@@ -1,4 +1,4 @@
-###                                                            Hi there 👋 I am Abhiram Patruni
+<div align="center"> ### Hi there 👋 I am Abhiram Patruni <div>
 ##                                                       Undergrad at Manipal Institute of Technology
 
 <div id="header">
