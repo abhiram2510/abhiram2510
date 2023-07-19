@@ -1,5 +1,5 @@
-### Hi there 👋 I am Abhiram Patruni
-## Undergrad at Manipal Institute of Technology
+###                                                            Hi there 👋 I am Abhiram Patruni
+##                                                       ndergrad at Manipal Institute of Technology
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
