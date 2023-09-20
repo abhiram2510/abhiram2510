@@ -14,6 +14,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhiram2510&theme=dark&background=000000)](https://git.io/streak-stats)
 
+### :fire: My Top Languages :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram2510&theme=tokyonight)
 
 
