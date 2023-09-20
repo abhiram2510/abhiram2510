@@ -1,4 +1,4 @@
-<div align="center"><h1>Hi there 👋 I am Abhiram Patruni </h1></div>
+<div align="center"><h1>Hey!👋 I am Abhiram Patruni </h1></div>
 <div align="center"><h3>Undergraduate at Manipal Institute of Technology</h3></div>
 
 <div id="header">
@@ -6,7 +6,7 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=abhiram2510&style=flat-square&color=blue" alt=""/>
-🔭 I’m currently working on Rest-API's and Testing <br>
+🔭 I’m currently working on Rest-API's and API Testing <br>
 🌱 I'm currently learning RestAPIs and Javascript<br>
 📫 How to reach me: abhirampatruni03@gmail.com<br>
 ⚡ The more you fear something, the more it will happen<br>
